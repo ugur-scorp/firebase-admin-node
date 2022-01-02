@@ -3,7 +3,7 @@
 .DS_Store
 npm-debug.log
 
-lib/
+# lib/ # NOTE(baris): Shiping as prebuilt
 .tmp/
 temp/
 typings/
